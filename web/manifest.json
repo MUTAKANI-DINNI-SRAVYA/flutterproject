@@ -1,0 +1,11 @@
+{
+  "name": "Grocery Inventory System",
+  "short_name": "GroceryInventory",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1B5E20",
+  "theme_color": "#1B5E20",
+  "description": "College Mini Project - Grocery Inventory System built with Flutter",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
